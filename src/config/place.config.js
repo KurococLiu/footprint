@@ -75,8 +75,10 @@ const data = [ // 0: 没去过 1: 去过1次 2: 去过几次 3: 经常去
   { name: '西藏', degree: 0 },
   { name: '香港', degree: 3 },
   { name: '新疆', degree: 0 },
-  { name: '云南', degree: 1 },
-  { name: '昆明市', degree: 1 },
+  { name: '云南', degree: 2 },
+  { name: '昆明市', degree: 2 },
+  { name: '大理白族自治州', degree: 1 },
+  { name: '丽江市', degree: 1 },
   { name: '浙江', degree: 1 },
   { name: '杭州市', degree: 1 },
 ];
